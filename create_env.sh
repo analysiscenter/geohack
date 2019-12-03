@@ -33,4 +33,4 @@ sudo mkdir /notebooks
 rm -rf ./notebooks
 ln -s /notebooks ./notebooks
 
-sudo docker pull analysiscenter1/geohack
+sudo docker pull analysiscenter1/ds-py3
